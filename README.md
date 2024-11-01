@@ -1,4 +1,4 @@
-# WordPress Custom Order Ledger Calculator
+# WordPress Manual Order Ledgers Calculator
 
 A custom WordPress plugin developed to calculate order ledgers for WooCommerce orders, providing an organized summary of order amounts manually. You will get a separate manu where all the upcoming orders placed with **'PayPal'**, **'Cash on Delivery'**, **'Direct bank transfer'** will be shown to the grid. 
 
